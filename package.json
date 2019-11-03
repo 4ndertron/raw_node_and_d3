@@ -1,0 +1,12 @@
+{
+  "name": "raw_node_and_d3",
+  "version": "1.0.0",
+  "description": "D3 tuts for expansion of human capital. The steps completed are located at https:tutorialsteacher.com/nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "4ndertron",
+  "license": "ISC"
+}
